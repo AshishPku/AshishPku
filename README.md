@@ -5,7 +5,7 @@
 
 - 🌱 **DJANGO DEVELOPER**
 
-- 👨‍💻 All of my projects are available at [https://rajmal-varma.github.io/My-Portfolio/]( https://rajmal-varma.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Repositories.](https://github.com/AshishPku?tab=repositories)
 
 - 📫 How to reach me **2022uec1698@mnit.ac.in**
 
