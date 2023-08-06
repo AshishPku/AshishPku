@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Ashish Kumar</h1>
-<h3 align="center">I'm a final year student, at MNIT,Jaipur. I am a Full Stack Developer. & I  have solved Many problem on GFG using C++ programming language.</h3>
+<h3 align="center">I am a Second year student at MNIT ,Jaipur. Learned Full Stack Development.Backend using Django. Django Rest-Framework and many more related to the development apart from it I have solved many DSA problems and apply it to write a optimize code in the Development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajmal-Varm &label=Profile%20views&color=0e75b6&style=flat" alt="Ashish kumar" /> </p>
 
@@ -19,14 +19,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="40" height="40"/> </a> 
   </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/413/852/png-clipart-redux-react-logo-javascript-dq-purple-violet-thumbnail.png" alt="redux" width="40" height="40"/> </a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/9357/9357448.png" alt="git" width="40" height="40"/> </a> 
   
