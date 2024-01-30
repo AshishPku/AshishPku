@@ -29,8 +29,8 @@
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/8297/8297437.png" alt="git" width="40" height="40"/> </a> 
   
    </p>
+<!-- <p><img align="left" src="https://avatars.githubusercontent.com/u/123726742?v=4" alt="Ashish kumar " /></p> -->
 
-<p><img align="left" src="https://avatars.githubusercontent.com/u/123726742?v=4" alt="Ashish kumar " /></p>
 <br>
 <br>
 
