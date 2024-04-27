@@ -1,5 +1,5 @@
-<h1 align="center">Hello I'm Ashish Kumar</h1>
-<h3 align="center">I am a Second year student at MNIT ,Jaipur. Learned Full Stack Development.Backend using Django. Django Rest-Framework and many more related to the development apart from it I have solved many DSA problems and apply it to write a optimize code in the Development. </h3>
+<h3 align="center"> I'm Ashish Kumar</h3>
+<h5 align="center">I am a Second year student at MNIT ,Jaipur. Learned Full Stack Development.Backend using Django. Django Rest-Framework and many more related to the development apart from it I have solved many DSA problems and apply it to write a optimize code in the Development. </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajmal-Varm &label=Profile%20views&color=0e75b6&style=flat" alt="Ashish kumar" /> </p>
 
